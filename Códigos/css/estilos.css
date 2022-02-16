@@ -1,9 +1,6 @@
-**** estilos.css ****
-
-
 @font-face {
 	font-family:Titulo;
-	src:url(../fontes/ANODETONOONE.TTF);
+	src:url(../../jogo1/fontes/ANODETONOONE.TTF)
 }
 
 h1 {
@@ -13,7 +10,7 @@ h1 {
 }
 
 body {
-	background-image:url(../imgs/fundo.jpg);
+	background-image:url(../../jogo1/imgs/fundo.jpg);
 }
 
 #container{
@@ -28,7 +25,7 @@ body {
 #fundoGame {
 	width:950px;
 	height:630px;
-	background-image:url(../imgs/fundo_game.jpg);
+	background-image:url(../../jogo1/imgs/fundo_game.jpg);
 	border-color:#FFF;
 	border-style:solid;
 }
@@ -39,8 +36,7 @@ body {
 	position:absolute;
 	left:8px;
 	top:179px;
-background-image:url(../imgs/apache.png);
-
+	background-image:url(../../jogo1/imgs/apache.png);
 }
 
 #inimigo1 {
@@ -49,7 +45,7 @@ background-image:url(../imgs/apache.png);
 	position: absolute;
 	left: 689px;
 	top: 253px;
-	background-image:url(../imgs/inimigo1.png);
+	background-image:url(../../jogo1/imgs/inimigo1.png);
 	
 }
 
@@ -59,7 +55,7 @@ background-image:url(../imgs/apache.png);
 	position: absolute;
 	left: 775px;
 	top: 447px;
-	background-image: url(../imgs/inimigo2.png);
+	background-image: url(../../jogo1/imgs/inimigo2.png);
 }
 
 #amigo {
@@ -68,7 +64,7 @@ background-image:url(../imgs/apache.png);
 	position: absolute;
 	left: 10px;
 	top: 464px;
-	background-image:url(../imgs/amigo.png);
+	background-image:url(../../jogo1/imgs/amigo.png);
 }
 
 #inicio {
@@ -82,9 +78,3 @@ background-image:url(../imgs/apache.png);
 	padding:10px;
 
 }
-
-
-**** index.html ****
-
-<link href="css/estilos.css" rel="stylesheet" type="text/css">
-
