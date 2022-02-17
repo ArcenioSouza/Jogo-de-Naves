@@ -1,6 +1,6 @@
 # Jogo de Naves
 
-Esse jogo tem o objetivo de salvar o amigo que está correndo pela floresta em meio a guerra com o seu helicóptero.
+Jogo com o objetivo de salvar o amigo que está em perigo na floresta. Pegue seu helicóptero e vá atrás dele!
 
 # Objetivos do projeto
 
