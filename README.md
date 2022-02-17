@@ -4,13 +4,17 @@ Esse jogo tem o objetivo de salvar o amigo que está correndo pela floresta em m
 
 # Objetivos do projeto
 
-- [ok] Praticar a criação de sites com HTML, CSS e Javascript;
+- [x] Praticar a criação de sites com HTML, CSS e Javascript;
 
-- [ok] Praticar conceitos de manipulação do DOM;
+- [x] Praticar conceitos de manipulação do DOM;
 
-- [ok] Praticar o uso de animações com CSS;
+- [x] Praticar o uso de animações com CSS;
 
-- [ok] Praticar o uso de eventos no Javascript;
+- [x] Praticar o uso de eventos no Javascript;
+
+# Link do site
+
+[https://arceniosouza.github.io/Jogo-de-Naves/](https://arceniosouza.github.io/Jogo-de-Naves/)
 
 # Créditos
 
